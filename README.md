@@ -26,4 +26,3 @@
 <div align="center">
 
 [![Star History Chart](https://api.star-history.com/svg?repos=JumpFlying/TryRepo&type=Date)](https://star-history.com/#JumpFlying/TryRepo&Date)
-
