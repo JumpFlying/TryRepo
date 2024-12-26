@@ -22,7 +22,6 @@
 
 
 **************
-
 ## 6 Statistics and Star History
 
 <div align="center">
